@@ -33,8 +33,10 @@ A regression model was developed to estimate house prices based on key features 
 The model predictions were visualized using a scatter plot comparing actual and predicted values.
 
 ![Model Output](grafik.png)
+## 📜 Certificates
 
----
+- [Python Toolbox Certificate](certificate.pdf)  
+- [Supervised Learning Certificate](certificate-2.pdf)  ---
 
 ## 🚀 Conclusion
 This project demonstrates a basic machine learning workflow, including data analysis, modeling, and visualization.
